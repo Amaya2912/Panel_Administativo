@@ -25,6 +25,27 @@ Este proyecto es un panel administrativo sencillo que permite gestionar informac
 
 ---
 
+---
+
+## 📸 Capturas del sistema
+
+### 👥 Usuarios
+<p align="center">
+  <img src="./docs/usuarios.png" alt="Módulo de usuarios" width="800"/>
+</p>
+
+### 🧑‍💼 Clientes
+<p align="center">
+  <img src="./docs/clientes.png" alt="Módulo de clientes" width="800"/>
+</p>
+
+### 📦 Proveedores
+<p align="center">
+  <img src="./docs/proveedores.png" alt="Módulo de proveedores" width="800"/>
+</p>
+
+---
+
 ## ▶️ Ejecutar la aplicación
 
 Sigue estos pasos para correr el proyecto en modo desarrollo:
