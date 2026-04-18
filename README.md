@@ -13,6 +13,15 @@ Este proyecto es un panel administrativo sencillo que permite gestionar informac
 
 ---
 
+## 🛠️ Tecnologías utilizadas
+
+| Tecnología | Descripción |
+|-----------|------------|
+| React | Biblioteca para construir interfaces de usuario |
+| Vite | Herramienta de desarrollo rápida para proyectos frontend |
+| Tailwind CSS | Framework de estilos basado en utilidades |
+| React Router DOM | Manejo de rutas en aplicaciones React |
+
 
 ---
 
