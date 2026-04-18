@@ -13,3 +13,13 @@ Este proyecto es un panel administrativo sencillo que permite gestionar informac
 
 ---
 
+
+---
+
+## ▶️ Ejecutar la aplicación
+
+Sigue estos pasos para correr el proyecto en modo desarrollo:
+
+```bash
+npm install
+npm run dev
