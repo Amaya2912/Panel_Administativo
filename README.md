@@ -31,7 +31,7 @@ Este proyecto es un panel administrativo sencillo que permite gestionar informac
 
 ### 👥 Usuarios
 <p align="center">
-  <img src="./docs/usuarios.png" alt="Módulo de usuarios" width="800"/>
+  <img src="./docs/usuario.png" alt="Módulo de usuarios" width="800"/>
 </p>
 
 ### 🧑‍💼 Clientes
